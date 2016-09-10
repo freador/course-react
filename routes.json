@@ -17,6 +17,14 @@
     "page": "./pages/about"
   },
   {
+    "path": "/react-flux/bootstrap",
+    "page": "./pages/react-flux/bootstrap"
+  },
+  {
+    "path": "/react-flux/form-project",
+    "page": "./pages/react-flux/form-project"
+  },
+  {
     "path": "/tasks/:status(pending|completed)?",
     "page": "./pages/home"
   }
